@@ -15,7 +15,8 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          <img src='https://cdn-dpdal.nitrocdn.com/GyhcCIiZNdTIbeWlnyLmouvoGPRcWSwV/assets/images/optimized/rev-b5451d8/blog/wp-content/uploads/sites/2/2022/07/React-JavaScript.jpg'></img>
+          <p>Learn React com JS</p>
         </a>
       </header>
     </div>
